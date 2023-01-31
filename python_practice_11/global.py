@@ -8,8 +8,11 @@ def func2():
     print("func2()에서 a값 %d" %a)
 
 #전역변수
+
 a = 20
 
 #메인코드
+
 func1()
+
 func2()
